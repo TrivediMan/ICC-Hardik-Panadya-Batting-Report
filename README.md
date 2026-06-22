@@ -44,7 +44,7 @@ The dashboard provides insights into:
 
 ## ICC Test Championship Dashboard
 
-![Test Dashboard](images/test_dashboard.png)
+[Test Dashboard]<img width="1374" height="775" alt="Screenshot 2026-04-02 134759" src="https://github.com/user-attachments/assets/39474123-2cd2-4eaf-8cb2-f198ad78de8c" />
 
 ### Key Metrics
 - Total Matches: 8
@@ -56,7 +56,7 @@ The dashboard provides insights into:
 
 ## ICC T20 World Cup Dashboard
 
-![T20 Dashboard](images/t20_dashboard.png)
+[T20 Dashboard]<img width="1374" height="775" alt="Screenshot 2026-04-02 134737" src="https://github.com/user-attachments/assets/364af96b-6c04-4ce6-b538-16e9ed7337e0" />
 
 ### Key Metrics
 - Total Matches: 103
@@ -68,7 +68,7 @@ The dashboard provides insights into:
 
 ## ICC ODI Dashboard
 
-![ODI Dashboard](images/odi_dashboard.png)
+[ODI Dashboard]<img width="1374" height="776" alt="Screenshot 2026-04-02 134708" src="https://github.com/user-attachments/assets/42070f59-945e-417d-80fb-d9da5db57fb8" />
 
 ### Key Metrics
 - Total Matches: 102
@@ -80,7 +80,7 @@ The dashboard provides insights into:
 
 ## Combined Batting Performance Dashboard
 
-![Combined Dashboard](images/combined_dashboard.png)
+[Combined Dashboard]<img width="1375" height="774" alt="Screenshot 2026-04-02 134626" src="https://github.com/user-attachments/assets/b208b968-7e30-42cd-81e8-6288fc5ccdb1" />
 
 ### Key Metrics
 - Total Matches: 213
@@ -196,11 +196,3 @@ Power BI Developer | Data Analyst | Cricket Analytics Enthusiast
 ## ⭐ If you like this project
 
 Give this repository a ⭐ on GitHub and share it with fellow cricket analytics enthusiasts.
-
-<img width="1375" height="774" alt="Screenshot 2026-04-02 134626" src="https://github.com/user-attachments/assets/b208b968-7e30-42cd-81e8-6288fc5ccdb1" />
-
-<img width="1374" height="776" alt="Screenshot 2026-04-02 134708" src="https://github.com/user-attachments/assets/42070f59-945e-417d-80fb-d9da5db57fb8" />
-
-<img width="1374" height="775" alt="Screenshot 2026-04-02 134737" src="https://github.com/user-attachments/assets/364af96b-6c04-4ce6-b538-16e9ed7337e0" />
-
-<img width="1374" height="775" alt="Screenshot 2026-04-02 134759" src="https://github.com/user-attachments/assets/39474123-2cd2-4eaf-8cb2-f198ad78de8c" />
